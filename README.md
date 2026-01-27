@@ -1,16 +1,16 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**FERMIPARADOXANSWER/FERMIPARADOXANSWER** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<dl>
+  <dt><b>ELFILIS</b></dt>
+  <dd>THE END OF LIFE</dd>
+</dl>
 
-Here are some ideas to get you started:
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Image](https://github.com/user-attachments/assets/b71d877a-9315-41a5-a61b-be67c3793946)
+
+<div align="center">
+  
+  ![](https://komarev.com/ghpvc/?username=FERMIPARADOXANSWER&color=55d4cc&label=COME+TEST+YOUR+METTLE,+OH+FLESH+AND+METAL)
+  
+</div>
