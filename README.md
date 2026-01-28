@@ -11,6 +11,6 @@
 
 <div align="center">
   
-  ![](https://komarev.com/ghpvc/?username=FERMIPARADOXANSWER&color=55d4cc&label=COME+TEST+YOUR+METTLE,+OH+FLESH+AND+METAL)
+  ![](https://komarev.com/ghpvc/?username=FERMIPARADOXANSWER&label=COME+TEST+YOUR+METTLE,+OH+FLESH+AND+METAL+&color=55d4cc&style=flat-square)
   
 </div>
